@@ -1,2 +1,2 @@
 # automationpractice
-A few cypress tests on http://automationpractice.com/
+A few cypress tests - http://automationpractice.com/
